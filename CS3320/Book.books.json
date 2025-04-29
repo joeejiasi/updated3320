@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "675126ee055d8b01ba7f4ecf"
+  },
+  "title": "The Bible",
+  "author": "God",
+  "publisher": "The Church",
+  "isbn": "1",
+  "status": "Checked Out",
+  "__v": 0,
+  "checkedOutBy": "Socks ",
+  "dueDate": {
+    "$date": "2024-12-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67512a93055d8b01ba7f4ed5"
+  },
+  "title": "Narnia",
+  "author": "C.S.Lewis",
+  "publisher": "Penguin Books",
+  "isbn": "12477-1241234",
+  "status": "Available",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6751411c569e4e89fc540547"
+  },
+  "title": "The Law of the Land",
+  "author": "The Lawmaker",
+  "publisher": "The Law",
+  "isbn": "54321",
+  "status": "Checked Out",
+  "__v": 0,
+  "checkedOutBy": "Tony the Tonester",
+  "dueDate": {
+    "$date": "2222-11-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6752a95b6bf98043eaaf44fe"
+  },
+  "title": "Solaris",
+  "author": "Stanislaw Lem",
+  "publisher": "N/A",
+  "isbn": "9788838929106",
+  "status": "Available",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6752a9f76bf98043eaaf4503"
+  },
+  "title": "Roadside Picnic",
+  "author": "Arkady Strugatsky and Boris Strugatsky",
+  "publisher": "somePublisher I guess",
+  "isbn": "9781613743447",
+  "status": "Checked Out",
+  "__v": 0,
+  "checkedOutBy": "A_Jellybean",
+  "dueDate": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67537c897845f6fda0b37f78"
+  },
+  "title": "Thing Book",
+  "author": "TJK",
+  "publisher": "Kelley Press",
+  "isbn": "13243546",
+  "status": "Available",
+  "__v": 0,
+  "checkedOutBy": null,
+  "dueDate": null
+},
+{
+  "_id": {
+    "$oid": "6754ec76fadbb7001d1128d9"
+  },
+  "title": "Harry Potter and the Sorcerers Stone",
+  "author": "J.K.Rowling",
+  "publisher": "Bloomsbury Publishing",
+  "isbn": "978-0590353427",
+  "status": "Available",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6754eca0fadbb7001d1128dc"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J.K.Rowling",
+  "publisher": "Bloomsbury Publishing",
+  "isbn": "0-7475-9105-9",
+  "status": "Available",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6754edf1fadbb7001d1128e5"
+  },
+  "title": "Lord of the Rings: Fellowship of the Ring",
+  "author": "J.R.R. Tolkein",
+  "publisher": "Houghton Mifflin Harcourt",
+  "isbn": "9780261102439",
+  "status": "Available",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6754eecdfadbb7001d1128ec"
+  },
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "publisher": "Scholastic Press",
+  "isbn": "978-0-439-02352-8",
+  "status": "Checked Out",
+  "__v": 0,
+  "checkedOutBy": "The Hungry Man",
+  "dueDate": {
+    "$date": "2024-12-09T00:00:00.000Z"
+  }
+}]
